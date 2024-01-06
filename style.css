@@ -179,8 +179,5 @@ section{
     border-radius: 3px;
     cursor: pointer;
     outline: none;
-    background: linear-gradient(#6fad5a, #66a150, #44df0c);
-}
-.signup_body .signup_form .signup:hover{
-    background: linear-gradient(#74b85e, #598B45);
+    background-color: green;
 }
